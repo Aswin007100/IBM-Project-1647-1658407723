@@ -1,1 +1,12 @@
 http://159.122.177.70:31327/
+
+Go to this address use username --> Prithivi
+                       password --> qwerty
+                       
+                       if any problem occurs
+
+ * project is working perfectly. some times after register the page will redirect to the same page due to image bug.
+but you can click login page and enter credential it will login after registration.
+
+* all the ouput and the proof are uploaded as pdf in the output file refer if you want.
+* for docker image prithivikrishna/expense .

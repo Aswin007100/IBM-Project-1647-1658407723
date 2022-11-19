@@ -10,3 +10,4 @@ but you can click login page and enter credential it will login after registrati
 
 * all the ouput and the proof are uploaded as pdf in the output file refer if you want.
 * for docker image prithivikrishna/expense .
+* the vedio is also uploaded in the youtube ->     https://youtu.be/NPK3pOJ7sHU
